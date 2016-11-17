@@ -1,0 +1,3 @@
+I chose to use a DLB Trie for my symbol table.
+I did this because DLB Tries are very memory efficient, so I was able to hold the entire trie in memory.
+This made searching for passwords very efficient.
